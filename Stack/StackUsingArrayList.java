@@ -1,5 +1,5 @@
 package Stack;
-import java.util.*;
+import java.util.ArrayList;
 public class StackUsingArrayList {
     static class Stack{
         static ArrayList<Integer> list=new ArrayList<>();
